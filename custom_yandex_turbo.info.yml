@@ -1,0 +1,6 @@
+name: Custom Yandex Turbo
+type: module
+description: "Adds yandex turbo support for rss feeds."
+package: Other
+core: '8.x'
+project: 'custom_yandex_turbo'
